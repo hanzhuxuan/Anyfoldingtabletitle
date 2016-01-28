@@ -22,7 +22,7 @@
 {
     if (self == [super init])
     {
-        NSArray *groupArr = nil;
+        NSArray *groupArr = nil;;
         
         // 把字典装换为模型
         NSMutableArray *dictArray = [NSMutableArray array];
